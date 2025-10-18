@@ -4,3 +4,4 @@ Flask-Limiter[sqlalchemy]==4.0.0
 python-dotenv==1.1.1
 requests==2.32.5
 redis==6.4.0
+gunicorn
